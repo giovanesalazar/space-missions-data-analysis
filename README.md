@@ -33,7 +33,6 @@ A proposta busca aproximar conceitos acadêmicos da aplicação prática da Ciê
 - 📊 Pandas
 - 📈 Matplotlib
 - 📉 Estatística Descritiva
-- 📒 Jupyter Notebook
 
 ---
 
@@ -92,9 +91,37 @@ Foram elaborados:
 
 - 🥧 Gráfico de Pizza
   - Distribuição dos tipos de missão.
+ 
+    <img width="500" height="500" alt="grafico_pizza_tiposdemissoes" src="https://github.com/user-attachments/assets/137a5d7e-36c5-4fae-81f8-b9138ad6fce2" />
 
 - 📊 Histograma
   - Distribuição da duração das missões.
+ 
+    <img width="500" height="500" alt="histograma_duracaodasmissoes" src="https://github.com/user-attachments/assets/af467a86-1c84-47aa-92f5-06c2479a3668" />
+
+- 📊 Tabela de Frequência
+  - Distribuição da duração das missões e tamanho da tripulação.
+ 
+    <img width="913" height="294" alt="tabela_frequencia_duracaomissao" src="https://github.com/user-attachments/assets/7e32752c-8dc3-4a96-adbb-4c6e23a84e78" />
+    <img width="783" height="349" alt="tabela_frequencia_tamanhotripulacao" src="https://github.com/user-attachments/assets/701e227b-c3f5-40d6-9037-40a9dfd4ae97" />
+
+- 🎯 Medidas de Tendência Central
+  - Distribuição da duração das missões e tamanho da tripulação.
+ 
+    <img width="457" height="125" alt="medidas_tendencia_duracaodamissao" src="https://github.com/user-attachments/assets/7b79601a-ed0d-46cd-bd1d-5d5b201a48a7" />
+    <img width="528" height="124" alt="medidas_tendencia_tamanhotripulacao" src="https://github.com/user-attachments/assets/e70061aa-cca2-4bb5-aa96-448d0e2760fe" />
+
+- 📏 Medidas de Dispersão
+  - Distribuição da duração das missões e tamanho da tripulação.
+ 
+    <img width="464" height="188" alt="medida_dispersao_duracaodamissao" src="https://github.com/user-attachments/assets/b96f6710-4495-42eb-9c6c-903ac6833d1d" />
+    <img width="531" height="184" alt="medidas_dispersao_tamanhotripulacao" src="https://github.com/user-attachments/assets/9cbbf390-340c-440a-bd2f-66862c17a5dd" />
+
+- 📌 Medidas Separatrizes
+  - Distribuição da duração das missões e tamanho da tripulação.
+
+    <img width="457" height="125" alt="medidas_tendencia_duracaodamissao" src="https://github.com/user-attachments/assets/75ad4e30-5ad6-4c2d-a887-510ddffa62ad" />
+    <img width="496" height="166" alt="medidas_separatrizes_tamanhotripulacao" src="https://github.com/user-attachments/assets/6e5fe16a-eaa4-4760-ac2a-9e23e20b4744" />
 
 ---
 
