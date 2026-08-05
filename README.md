@@ -159,3 +159,7 @@ A análise dos dados permitiu observar que:
 - Técnicas estatísticas facilitam a identificação de padrões importantes para planejamento e tomada de decisão.
 
 ---
+
+## 🔗 Links
+
+- Dataset: Space Missions Dataset (Kaggle): https://www.kaggle.com/datasets/sameerk2004/space-missions-dataset
